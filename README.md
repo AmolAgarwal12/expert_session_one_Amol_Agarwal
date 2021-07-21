@@ -4,7 +4,7 @@ Code to demonstrate the concept of data preparation and searching.
 * Read multiple files one by one.
 * Perform Sorting on each file.
 * Then, perform merging operation.
-* And at last, search from your merged file.
+* And at last, search from the merged file.
 
 ## To run the code:
 1. Clone the github repository in your computer. ```git clone https://github.com/AmolAgarwal12/expert_session_one_Amol_Agarwal.git```
