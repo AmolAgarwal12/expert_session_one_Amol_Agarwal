@@ -7,6 +7,6 @@ Code to demonstrate the concept of data preparation and searching.
 * And at last, search from your merged file.
 
 ## To run the code:
-1. Cloce the github repository in your computer. ```git clone https://github.com/Electric-Grasshopper/Data-analysis-on-incoming-streams.git```
-2. Run ```dataPreperation.ipynb``` file which will create two json files in dataStore folder.
+1. Clone the github repository in your computer. ```git clone https://github.com/AmolAgarwal12/expert_session_one_Amol_Agarwal.git```
+2. Run ```Amol_Flipkart.ipynb``` file which can be run on any environment like Jupyter Notebook, Google colab etc.
 3. That's it.
