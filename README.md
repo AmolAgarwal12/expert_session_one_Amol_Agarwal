@@ -9,4 +9,5 @@ Code to demonstrate the concept of data preparation and searching.
 ## To run the code:
 1. Clone the github repository in your computer. ```git clone https://github.com/AmolAgarwal12/expert_session_one_Amol_Agarwal.git```
 2. Run ```Amol_Flipkart.ipynb``` file which can be run on any environment like Jupyter Notebook, Google colab etc.
-3. That's it.
+3. Provide input and get output.
+4. that's it 
